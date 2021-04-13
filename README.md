@@ -1,2 +1,2 @@
 # Swen
-Test app for the stock market
+Project for the stock market
